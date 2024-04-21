@@ -51,7 +51,7 @@ The Stick Hero Game incorporates the following design patterns:
 6. Save and load game progress for convenience.
 
 ## Contributors
-- [Your Name]
-- [Teammate's Name]
+- Angadjeet Singh - 2022071
+- Aryan Jain - 2022111
 
 Feel free to expand and enhance the Stick Hero Game according to your creative vision. Happy coding!
